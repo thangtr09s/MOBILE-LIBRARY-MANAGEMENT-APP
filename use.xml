@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="USERNAME">NGUYEN A</string>
+    <boolean name="REMEMBER" value="true" />
+    <string name="PASSWORD">123</string>
+</map>
